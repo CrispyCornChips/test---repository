@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    print("Hello git");
+    for (int i = 0; i < 101; i++)
+        print("Hello git");
     return 0;
 }
